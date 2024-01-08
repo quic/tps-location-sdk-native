@@ -346,6 +346,18 @@ The following keys will be added in your `.entitlements` file:
 
 ## Changelog
 
+### 5.7
+
+Private release - a follow-up to 5.5:
+
+* Configurable back-off after network failures to save power/bandwidth
+* Performance optimization in cell positioning
+* Improvements and fixes in network code
+
+### 5.6
+
+Private release with native Wi-Fi/Cell/GNSS support for Qualcomm MDM9607 platform.
+
 ### 5.5
 
 Private release to support offline hybrid positioning based on Wi-Fi/Cell on a custom Linux platform.
@@ -356,7 +368,7 @@ Private release to support offline hybrid positioning based on Wi-Fi/Cell on a c
 
 ### 5.4.6
 
-* Fixed an unwanted file system access on macOS
+* Fixed unwanted file system access on macOS
 
 ### 5.4.4
 
